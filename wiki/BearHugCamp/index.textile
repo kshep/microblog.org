@@ -1,0 +1,75 @@
+---
+layout: default
+title: Microblog.org - BearHugCamp
+---
+
+h1. BearHugCamp
+
+h2. Reports of the Event
+* "http://blogs.zdnet.com/weblife/?p=188":http://blogs.zdnet.com/weblife/?p=188
+* "http://news.cnet.com/8301-13953_3-10040537-80.html":http://news.cnet.com/8301-13953_3-10040537-80.html
+* "http://flickr.com/photos/mager/sets/72157607252527918/detail":http://flickr.com/photos/mager/sets/72157607252527918/detail
+* "http://metajack.im/2008/09/13/bearhugcamp-for-those-who-missed-it/":http://metajack.im/2008/09/13/bearhugcamp-for-those-who-missed-it/
+* "http://sprechblase.wordpress.com/2008/09/14/bearhug-camp-in-san-francisco-on-9122008/":http://sprechblase.wordpress.com/2008/09/14/bearhug-camp-in-san-francisco-on-9122008/
+
+h2. Video
+
+* "Session 1":http://media.kiwi.to/twit/20080912-bearhugcamp-session1.mp4 (107:29, 204MB)
+* "Cofee Breeak":http://media.kiwi.to/twit/20080912-bearhugcamp-break1.mp4 (28:59, 62.6MB)
+* "Session 2":http://media.kiwi.to/twit/20080912-bearhugcamp-session2.mp4  (31:41, 56.5MB)
+* Lunch
+* "Session 3":http://media.kiwi.to/twit/20080912-bearhugcamp-session3.mp4 (150:49, 288MB)
+
+h2. Audio (speex)
+
+* "Session 1":http://rym.waglo.com.nyud.net:8080/20080912-bearhugcamp-session1.spx (107:29, 15.5 MiB)
+* "Session 2":http://rym.waglo.com.nyud.net:8080/20080912-bearhugcamp-session1.spx (31:41, 4.4 MiB)
+* "Session 3":http://rym.waglo.com.nyud.net:8080/20080912-bearhugcamp-session1.spx (150:49, 21.7 MiB)
+
+h2. Latest News
+
+* 09/11/08 01:32PM PDT - Kevin Marks added the event to Upcoming: "BearHugCamp":http://upcoming.yahoo.com/event/1093593
+
+h2. Basics 
+
+* <i>What is it?</i> - The office web site for Bear Hug Camp is http://www.bearhugcamp.com. You'll find general what/why information there, but if anyone would like to post additional information, notes, conversations, etc here, feel free. At bearhugcamp.com, Dave Winer describes the format as:
+
+<blockquote>Discussion. Not open space, not BloggerCon-style, no singing of kumbaya. We start with a conversation, Steve talks then everyone else talks, in whatever order Steve thinks makes sense. Then we can go off in groups centered on people, or ideas, or we can all go to lunch or dinner, or we can all go home and sulk and write angry blog posts! -- "Dave Winer":http://bearhugcamp.com</blockquote>
+
+* <i>Where/When is it?</i> - Camp is happening at CNET in San Francisco on 9/12/2008. CNET is at 235 Second Street ("Google map":http://bit.ly/3ZO8l0), which is a ~5 minute walk south on 2nd st. from the Montgomery BART/Muni station.
+
+* "Steve Gillmor":http://identi.ca/stevegillmor is the presumptive organizer/master of ceremonies.
+
+* Leo Laporte intends to stream the event live (http://live.twit.tv)
+
+* Recording info? Will there be any recording of sessions?
+
+h2. Related Events
+
+* There's an Identi.ca meet-up scheduled for 6:30PM on Sep 12 (after BearHugCamp) at "House of Shields":http://przd.com/aM-3
+* metajack and bear are in town on 9/11 and might be interested in something this evening: "http://identi.ca/notice/529181":http://identi.ca/notice/529181
+
+h2. Attendees
+
+"Steve Gillmor":http://identi.ca/stevegillmor has been denting names of folks who've confirmed that they'll be attending. The people he's mentioned are listed here, along with anyone else who has confirmed directly and/or added their own name to the list:
+
+* Bret Taylor
+* Cliff Gerrish - "cgerrish":http://identi.ca/cgerrish
+* Dan Farmer 
+* Dave Winer - "dave":http://identi.ca/dave
+* Dustin Sallings - "dustin":http://identi.ca/dustin
+* Evan Prodromou - "evan":http://identi.ca/evan
+* Francine Hardaway - "francine":http://identi.ca/francine (streaming)
+* Jack Dorsey - http://twitter.com/jack
+* Brian Hendrickson - http://openmicroblogger.com/?brian
+* Jack Moffitt - "metajack":http://identi.ca/metajack
+* Ken Sheppardson - "kshep":http://identi.ca/kshep
+* Kevin Marks - "kevinmarks":http://identi.ca/kevinmarks
+* Loic Le Meur - "loic":http://identi.ca/loic
+* Mike Taylor - "bear":http://identi.ca/bear
+* Robert W. Anderson - "rwandering":http://identi.ca/rwandering
+* Zach Copley - "zach":http://identi.ca/zach
+* Jerry Schuman - "theagent":http://identi.ca/theagent
+* Steven Ng - "nomadicoder":http://identi.ca/nomadicoder
+* Mary Trigiani - http://twitter.com/MaryTrigiani
+* Brian Zisk - "zisk":http://twitter.com/zisk

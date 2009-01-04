@@ -1,0 +1,61 @@
+---
+layout: default
+title: Microblog.org
+---
+
+<b>Microblog.org</b> is a neutral venue for discussion about microblogging and messaging platforms and services and the clients used to access those services. Please register and edit any and all pages. This is an open source, community effort.
+
+h2. Issues & Conversations
+
+* "BearHugCamp":/wiki/BearHugCamp - An "unconference" microblogging conference happening in San Francisco on 9/12/2008.
+* "FLOSS podcast on Laconica with Evan":http://twit.tv/floss37
+* "TWiT Army Aftershow with Dustin of Twitterspy":http://ur1.ca/3p9
+* "IT Conversations interview with Evan of Laconica":http://itc.conversationsnetwork.org/shows/detail3791.html
+
+h2. Other Groups
+* "laconica-dev":http://mail.laconi.ca/mailman/listinfo/laconica-dev is a mailing list for Laconi.ca developers
+
+h2. Proposed & Established Standards
+
+* "OpenMicroBlogging Standard":http://www.openmicroblogging.org -- A standard implemented by Laconi.ca and Identi.ca
+* "XEP-xxxx: Microblogging Over XMPP":http://www.xmpp.org/extensions/inbox/microblogging.html including "XEP-0077 XHTML-IM":http://www.xmpp.org/extensions/xep-0071.html, "XEP-0060 PubSub":http://www.xmpp.org/extensions/xep-0060.html and "BOSH":http://www.xmpp.org/extensions/xep-0124.html
+
+h2. Services & Servers
+
+h3. Commercial
+
+* "Twitter":http://www.twitter.com - A venture funded service (http://www.twitter.com)
+* "Jaiku":http://www.jaiku.com - Purchased by Google (http://www.jaiku.com)
+* "Pownce":http://www.pownce.com - A service started by Kevin Rose et al (http://www.pownce.com)
+* "Plurk":http://www.plurk.com - (http://www.plurk.com)
+* "Friendfeed":http://www.friendfeed.com - (http://friendfeed.com/)
+
+h3. Open Source
+
+* "Identica":http://www.identi.ca - A service running the "Laconi.ca":http://www.laconi.ca software (http://www.identi.ca)
+* "Laconi.ca":http://www.laconi.ca - An open source microblogging platform (http://www.laconi.ca)
+* "OpenMicroBlogger":http://openmicroblogger.org/
+* "bleeper.de":http://bleeper.de - Largest Laconica-Site outside North-America, though all in German (http://bleeper.de)
+
+h2. Clients & Tools
+
+* Twhirl
+* "TwitterSpy":http://dustin.github.com/twitterspy
+* "IdentiSpy":/wiki/IdentiSpy
+* "Spaz":http://funkatron.com/spaz (http://funkatron.com/spaz)
+* "Gnip":http://www.gnipcentral.com (http://www.gnipcentral.com/)
+* "Gwibber":https://launchpad.net/gwibber (https://launchpad.net/gwibber)
+
+h2. XMPP
+* "XMPP Protocol":http://en.wikipedia.org/wiki/Xmpp - Wikipedia article
+* "XMPP Standards Foundation":http://www.xmpp.org/
+
+h3. XMPP Servers
+* "Citadel":http://www.citadel.org/doku.php/doku.php?id=start
+* "Ejabberd":http://www.process-one.net/en/ejabberd - "BOSH":http://www.xmpp.org/tech/bosh.shtml support, Erlang, cross-platform, packaged in many Linux distros
+* "Jabberd 14":http://jabberd.org/
+* "OpenFire":http://www.igniterealtime.org/projects/openfire/index.jsp OpenFire - "BOSH":http://www.xmpp.org/tech/bosh.shtml support, Java
+* "OpenIM":http://www.openim.techlab.smk.fr/en/
+* "Psyced":http://www.psyced.org/
+* "Tigase":http://www.tigase.org/ - PubSub support, "BOSH":http://www.xmpp.org/tech/bosh.shtml support, Java - used by Seesmic/Twhirl
+* "DJabberD":http://danga.com/djabberd/ - open source, perl, by Brad Fitzpatrick / danga.com, in use at livejournal.com

@@ -1,0 +1,210 @@
+/*****************************************************************************/
+/*
+/* Common
+/*
+/*****************************************************************************/
+
+/* Global Reset */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: white;
+  font: 10pt helvetica, arial, clean, sans-serif;
+  text-align: center;
+  line-height: 1.5em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: 100%;
+}
+
+h1 {
+  font-size: 1.5em;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+}
+
+h2 {
+  font-size: 1.1em;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+  border-bottom: 1px solid #ccc;
+}
+
+h3 {
+  font-weight: normal;
+  font-style: italic;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+p {
+  margin: 1em 0 1em 0;
+}
+
+blockquote {
+   margin: 20px 20px 20px 20px;
+   padding: 10px 10px 10px 20px;
+   border-left: 3px solid #eeeeee;
+   color: #666;
+}
+
+a img { border: 0px; }
+img.tl    { float: left;  margin: 0px 20px 20px 0px; }
+img.l     { float: left;  margin: 20px 20px 20px 0px; }
+img.tr    { float: right; margin: 0px 0px 20px 20px; }
+img.r     { float: right; margin: 20px 0px 20px 20px; }
+
+img#feed { padding-top: 3px; }
+
+a {
+  color: #00a;
+}
+
+a:hover {
+  color: black;
+}
+
+a:visited {
+  color: #a0a;
+}
+
+table {
+  font-size: inherit;
+  font: 100%;
+}
+
+/*****************************************************************************/
+/*
+/* Home
+/*
+/*****************************************************************************/
+
+ul {
+  line-height:1.5em;
+  list-style-image:url("/images/bullet.gif");
+  list-style-type:square;
+  margin-bottom: 2em;
+}
+
+  ul li {
+    padding-left: 5px;
+    margin-left: 20px;
+  }
+
+/*****************************************************************************/
+/*
+/* Site
+/*
+/*****************************************************************************/
+
+/*
+.site {
+  font-size: 110%;
+  width: 40em;
+  margin: 0;
+  padding: 0;
+}
+*/
+
+div.header {
+  width: 100%;
+  background-color: #5A6F8E;
+  color: #ffffff;
+  font-weight: bold;
+  margin: 0px 0px 2em 0px;
+  font-size: 1em;
+  padding: 1em 0px 1em 0px;
+  text-align: center;
+  height: 2em;
+}
+
+.title, .content, .footer {
+    text-align: left;
+    width: 40em;
+    margin: 0em auto 0em auto;
+    padding: 0em;
+}
+    
+  .title a {
+    color: #5A6F8E;
+    text-decoration: none;
+  }
+  
+  .title a:hover {
+    color: black;
+  }
+
+  .title .name {
+    float: left;
+    color: #ffffff;
+    font-size: 1.3em;
+    line-height: 1.5em;
+  }
+
+  .title .right {
+    float: right;
+    line-height: 1.5em;
+  }
+
+  .title a.right {
+    color: #ccc;
+    text-decoration: none;
+    margin-left: 1em;
+    font-size: 1em;
+  }
+  
+  .title a.right:hover {
+    color: black;
+  }
+
+  .meta {
+    color: #aaa;
+    padding: 0px;
+    margin: 0.5em 0em 1.5em 0em;
+    font-size: 0.9em;
+  }
+
+.sites {
+  font-size: 0.8em;
+  color: #666;
+  margin-top: 2em;
+}
+
+.site {
+    padding: 0px 2px 10px; position: relative; float: left;
+}
+
+  .footer {
+    border-top: 2px solid #eee;
+    margin-top: 3em;
+    text-align: center;
+  }
+  
+    .footer_content {
+      padding-top: 1em;
+      color: #666;
+      width: 100%;
+      font-size: 0.8em;
+      margin-right: 3em;
+    }
+    
+    .footer_content a {
+      color: #8085C1;
+    }
+
+table {
+   margin: 10px 10px 10px 20px;
+}
+td {
+   padding: 5px;
+   vertical-align: top;
+}
+code {
+   font-weight: bold;
+   color: #5A6F8E;
+}

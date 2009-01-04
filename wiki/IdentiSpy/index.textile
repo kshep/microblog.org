@@ -1,0 +1,69 @@
+---
+layout: default
+title: Microblog.org - IdentiSpy
+---
+
+h1. IdentiSpy
+
+IdentiSpy is a generic microblog soft-realtime tracker maintained byy "Dustin Sallings":http://dustin.github.com and "Ken Sheppardson":http://www.kensheppardson.com.
+
+h2. Command Quick Reference
+
+| <code>add_service</code> |Add a service you can post to. |
+| <code>add_stop</code> |Add a stop word (global negative filter) |
+| <code>autopost</code> |Enable or disable autopost |
+| <code>help</code> |Get help for commands. |
+| <code>off</code> |Disable updates. |
+| <code>on</code> |Activate updates. |
+| <code>post</code> |Post an update to a service. |
+| <code>remove_service</code> |Remove (log out of) a service. |
+| <code>remove_stop</code> |Remove a stop word (global negative filter) |
+| <code>services</code> |List all known services. |
+| <code>set_default_service</code> |Set your default posting service. |
+| <code>track</code> |Track a topic |
+| <code>tracks</code> |List your tracks. |
+| <code>untrack</code> |Stop tracking a topic |
+| <code>verify_svcs</code> |Verify all service connections. |
+
+h2. Magic Tokens
+
+There are a few 'magic token' that are injected for you and you can track with:
+
+| <code>from:someuser</code> |matches messages that come from a specific user |
+| <code>from:somesource</code> |matches messages that come from a specific source |
+
+<code>from:user</code> is useful for tracking any message from a user, but you really *should not* try to track all messages from a specific source.  That token exists for creating exclusion rules and being more specific in other matching rules, not for replicating the public feed.  Abuse will force us to remove this functionality.
+
+h2. Supported Services
+
+Services are categorized on two axes.  They may be read-write or write-only, and they may be listed or not.
+
+Unlisted services exist primarily for one-offs (e.g. you want to run your own µblog instance, but use IdentiSpy as an XMPP interface in and out of it).  This is quite easy to do, please contact us if you'd like to be supported.
+
+h3. Read/Write
+
+| <code>identica</code> |"identi.ca":http://identi.ca |
+| <code>twitarmy</code> |"TWiT Army":http://army.twit.tv |
+
+h3. Write Only
+
+| <code>twitter</code> | "twitter":http://twitter.com is write only because they don't provide a "firehose" (i.e. a single feed of all activity on the site) |
+
+h2. FAQ
+
+h3. How Do I Track a Topic?
+
+Just IM <code>track cheese</code> to be notified when anyone says 'cheese'.
+
+h3. How Do I Ignore A User/word/whatever?
+
+You can either add a global stopword <code>add_stop from:annoying_user</code> or you can modify your rule to exclude an annoying term <code>track git -ignorant</code>
+
+h3. Can I Get an Atom Feed of My Tracks While Offline
+
+Yes you can!  Your own personal atom URL is available from your status: <code>status</code>
+
+h3. I've Stopped Receiving Tracks!
+
+IdentiSpy has a somewhat unsophisticated way of tracking your presence and will stop sending you stuff if it thinks you're offline.  You can verify your status with the following command: <code>status</code> If that says your xmpp status is unavailable or similar, just twiddle your status (change to away and back, for example) and it should brighten up.
+
