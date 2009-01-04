@@ -3,7 +3,7 @@ layout: default
 title: Microblog.org
 ---
 
-<b>Microblog.org</b> is a neutral venue for discussion about microblogging and messaging platforms and services and the clients used to access those services. Please register and edit any and all pages. This is an open source, community effort.
+<b>Microblog.org</b> is a neutral venue for discussion about microblogging and messaging platforms and services and the clients used to access those services. While the site was originally built using Mediawiki, we're now using experimenting with "jekyll":http://github.com/mojombo/jekyll. The site is rebuilt automatically whenever changes are pushed to a git repository on "github":http://github.com/kshep/microblog.org.
 
 h2. Issues & Conversations
 
