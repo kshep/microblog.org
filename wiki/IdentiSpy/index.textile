@@ -5,7 +5,7 @@ title: Microblog.org - IdentiSpy
 
 h1. IdentiSpy
 
-IdentiSpy is a generic microblog soft-realtime tracker maintained byy "Dustin Sallings":http://dustin.github.com and "Ken Sheppardson":http://www.kensheppardson.com.
+IdentiSpy is a generic microblog soft-realtime tracker maintained by "Dustin Sallings":http://dustin.github.com and "Ken Sheppardson":http://www.kensheppardson.com.
 
 h2. Command Quick Reference
 
